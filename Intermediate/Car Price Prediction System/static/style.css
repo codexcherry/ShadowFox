@@ -1,0 +1,334 @@
+/* Base styles */
+:root {
+    /* Dark mode colors */
+    --primary-color: #4dabf7;
+    --secondary-color: #339af0;
+    --accent-color: #ff6b6b;
+    --bg-color: #121212;
+    --card-bg: #1e1e1e;
+    --text-color: #e9ecef;
+    --muted-text: #adb5bd;
+    --light-gray: #343a40;
+    --border-radius: 10px;
+    --box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    --input-bg: #2d2d2d;
+    --success-color: #51cf66;
+    --warning-color: #fcc419;
+    --danger-color: #ff6b6b;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 30px 0;
+    flex: 1;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 30px;
+    background-color: var(--card-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+
+header h1 {
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+}
+
+header p {
+    color: var(--muted-text);
+    font-size: 1.1rem;
+}
+
+/* Form styles */
+form {
+    background-color: var(--card-bg);
+    padding: 30px;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    margin-bottom: 30px;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
+input, select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--light-gray);
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: var(--input-bg);
+    color: var(--text-color);
+    transition: all 0.3s ease;
+}
+
+input:focus, select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 2px rgba(77, 171, 247, 0.2);
+}
+
+input::placeholder {
+    color: var(--muted-text);
+    opacity: 0.7;
+}
+
+.form-submit {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-predict {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    border: none;
+    padding: 14px 28px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-predict:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.btn-predict:active {
+    transform: translateY(0);
+}
+
+/* Result styles */
+.result-container {
+    background-color: var(--card-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    overflow: hidden;
+    margin-bottom: 30px;
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.result-header {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    padding: 18px;
+    text-align: center;
+}
+
+.result-header h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.result-details {
+    padding: 30px;
+}
+
+.result-main {
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid var(--light-gray);
+}
+
+.result-main h3 {
+    font-size: 1.3rem;
+    color: var(--muted-text);
+    margin-bottom: 10px;
+}
+
+.price {
+    font-size: 3rem;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.result-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.stat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: var(--input-bg);
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+}
+
+.stat:hover {
+    transform: translateY(-3px);
+}
+
+.stat-label {
+    font-weight: 500;
+    font-size: 1.05rem;
+}
+
+.stat-value {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.fair-price {
+    color: var(--success-color);
+}
+
+.above-market-value {
+    color: var(--danger-color);
+}
+
+.below-market-value {
+    color: var(--warning-color);
+}
+
+/* Error styles */
+.error-container {
+    background-color: rgba(255, 107, 107, 0.1);
+    border-left: 4px solid var(--accent-color);
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+/* Insights section */
+.insights {
+    margin-bottom: 30px;
+}
+
+.insights h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.insight-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.insight-card {
+    background-color: white;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    overflow: hidden;
+}
+
+.insight-card h3 {
+    padding: 15px;
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+}
+
+.insight-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 25px;
+    color: var(--muted-text);
+    font-size: 14px;
+    background-color: var(--card-bg);
+    margin-top: 40px;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .form-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .result-stats {
+        grid-template-columns: 1fr;
+    }
+    
+    .container {
+        width: 95%;
+        padding: 15px 0;
+    }
+    
+    header {
+        padding: 20px;
+    }
+    
+    header h1 {
+        font-size: 2rem;
+    }
+    
+    .price {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+    
+    form {
+        padding: 20px;
+    }
+    
+    .btn-predict {
+        width: 100%;
+    }
+} 

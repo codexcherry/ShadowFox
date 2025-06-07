@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Predictor | Dark Mode</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-car"></i> Car Price Predictor</h1>
+            <p>Enter your car details to estimate its selling price</p>
+        </header>
+
+        <main>
+            <form action="/predict" method="post" id="prediction-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="year"><i class="fas fa-calendar-alt"></i> Manufacturing Year</label>
+                        <select id="year" name="year" required>
+                            <option value="" disabled selected>Select Year</option>
+                            {% for year in range(2025, 2000, -1) %}
+                                <option value="{{ year }}">{{ year }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="present_price"><i class="fas fa-tag"></i> Showroom Price (₹ Lakhs)</label>
+                        <input type="number" id="present_price" name="present_price" step="0.01" min="0.1" required placeholder="e.g., 8.5">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="kms_driven"><i class="fas fa-road"></i> Kilometers Driven</label>
+                        <input type="number" id="kms_driven" name="kms_driven" min="0" required placeholder="e.g., 45000">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="fuel_type"><i class="fas fa-gas-pump"></i> Fuel Type</label>
+                        <select id="fuel_type" name="fuel_type" required>
+                            <option value="" disabled selected>Select Fuel Type</option>
+                            <option value="Petrol">Petrol</option>
+                            <option value="Diesel">Diesel</option>
+                            <option value="CNG">CNG</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="seller_type"><i class="fas fa-store"></i> Seller Type</label>
+                        <select id="seller_type" name="seller_type" required>
+                            <option value="" disabled selected>Select Seller Type</option>
+                            <option value="Dealer">Dealer</option>
+                            <option value="Individual">Individual</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="transmission"><i class="fas fa-cog"></i> Transmission</label>
+                        <select id="transmission" name="transmission" required>
+                            <option value="" disabled selected>Select Transmission</option>
+                            <option value="Manual">Manual</option>
+                            <option value="Automatic">Automatic</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="owner"><i class="fas fa-user"></i> Previous Owners</label>
+                        <select id="owner" name="owner" required>
+                            <option value="" disabled selected>Select Owner</option>
+                            <option value="0">0 (First Owner)</option>
+                            <option value="1">1 (Second Owner)</option>
+                            <option value="2">2 (Third Owner)</option>
+                            <option value="3">3+ (More than Three Owners)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-submit">
+                    <button type="submit" class="btn-predict"><i class="fas fa-search-dollar"></i> Estimate Selling Price</button>
+                </div>
+            </form>
+
+            {% if prediction %}
+            <div class="result-container">
+                <div class="result-header">
+                    <h2><i class="fas fa-chart-line"></i> Prediction Results</h2>
+                </div>
+                <div class="result-details">
+                    <div class="result-main">
+                        <h3>✅ Estimated Resale Value</h3>
+                        <p class="price">₹ {{ prediction.estimated_price }} Lakhs</p>
+                    </div>
+                    <div class="result-stats">
+                        <div class="stat">
+                            <span class="stat-label"><i class="fas fa-chart-line"></i> Depreciation</span>
+                            <span class="stat-value">{{ prediction.depreciation }}%</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-label"><i class="fas fa-brain"></i> Model Confidence Range</span>
+                            <span class="stat-value">₹{{ prediction.confidence_lower }}L - ₹{{ prediction.confidence_upper }}L</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-label"><i class="fas fa-balance-scale"></i> Market Comparison</span>
+                            <span class="stat-value {{ prediction.market_comparison | lower | replace(' ', '-') }}">{{ prediction.market_comparison }}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+
+            {% if error %}
+            <div class="error-container">
+                <p><i class="fas fa-exclamation-triangle"></i> Error: {{ error }}</p>
+            </div>
+            {% endif %}
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Car Price Predictor | <i class="fas fa-moon"></i> Dark Mode | <i class="fas fa-code"></i> Powered by codexcherry</p>
+        </footer>
+    </div>
+</body>
+</html> 

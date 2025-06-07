@@ -1,0 +1,89 @@
+==== Environmental Log: 2023-06-01 ====
+Temperature: 24.5°C
+Soil Moisture: 65%
+Humidity: 70%
+Notes: Normal growing conditions. All crops performing well.
+
+==== Environmental Log: 2023-06-02 ====
+Temperature: 25.2°C
+Soil Moisture: 62%
+Humidity: 68%
+Notes: Slight temperature increase, but still within optimal range for most crops.
+
+==== Environmental Log: 2023-06-03 ====
+Temperature: 26.8°C
+Soil Moisture: 58%
+Humidity: 65%
+Notes: Temperature trending upward. Increased irrigation for cucumber and tomato sections.
+
+==== Environmental Log: 2023-06-04 ====
+Temperature: 28.3°C
+Soil Moisture: 54%
+Humidity: 60%
+Notes: Temperature above optimal range for lettuce. Adjusted cooling system and increased misting frequency.
+
+==== Environmental Log: 2023-06-05 ====
+Temperature: 22.1°C
+Soil Moisture: 68%
+Humidity: 75%
+Notes: Sudden temperature drop due to cooling system malfunction. System was set too low overnight. Fixed by morning.
+
+==== Environmental Log: 2023-06-06 ====
+Temperature: 24.0°C
+Soil Moisture: 66%
+Humidity: 72%
+Notes: Conditions stabilized. Lettuce showing signs of stress from previous temperature fluctuations.
+
+==== Environmental Log: 2023-06-07 ====
+Temperature: 23.8°C
+Soil Moisture: 67%
+Humidity: 73%
+Notes: Optimal growing conditions restored. Added additional nutrients to lettuce section to aid recovery.
+
+==== Environmental Log: 2023-06-08 ====
+Temperature: 24.2°C
+Soil Moisture: 65%
+Humidity: 71%
+Notes: All crops performing well. Tomatoes showing first flowering.
+
+==== Environmental Log: 2023-06-09 ====
+Temperature: 25.5°C
+Soil Moisture: 63%
+Humidity: 68%
+Notes: Slight temperature increase. Bell peppers showing excellent growth.
+
+==== Environmental Log: 2023-06-10 ====
+Temperature: 26.0°C
+Soil Moisture: 60%
+Humidity: 66%
+Notes: Temperature at upper limit for lettuce but ideal for tomatoes and bell peppers. Adjusted section-specific cooling.
+
+==== Environmental Log: 2023-06-11 ====
+Temperature: 25.8°C
+Soil Moisture: 61%
+Humidity: 67%
+Notes: Maintained good growing conditions. Cucumber showing rapid growth.
+
+==== Environmental Log: 2023-06-12 ====
+Temperature: 24.9°C
+Soil Moisture: 64%
+Humidity: 69%
+Notes: Perfect balance of conditions for all crops. First tomato fruits developing.
+
+==== Environmental Log: 2023-06-13 ====
+Temperature: 23.5°C
+Soil Moisture: 66%
+Humidity: 72%
+Notes: Cooler day. Spinach performing exceptionally well under these conditions.
+
+==== Environmental Log: 2023-06-14 ====
+Temperature: 22.8°C
+Soil Moisture: 68%
+Humidity: 74%
+Notes: Cool and moist conditions. Ideal for lettuce and spinach. Reduced irrigation in these sections.
+
+==== Environmental Log: 2023-06-15 ====
+Temperature: 27.5°C
+Soil Moisture: 57%
+Humidity: 64%
+Notes: Sudden temperature increase due to external heat wave. Increased cooling and misting frequency across all sections. 

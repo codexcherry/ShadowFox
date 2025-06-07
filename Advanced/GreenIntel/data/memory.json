@@ -1,0 +1,1792 @@
+{
+  "predictions": [
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": 24.97,
+      "recorded_at": "2025-06-02T18:51:07.900137",
+      "updated_at": "2025-06-07T18:55:11.958987"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:51:08.694852"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:51:09.414776"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:51:11.120289"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:51:11.970150"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:51:11.973618"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:52:39.307831"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:52:41.083202"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:52:41.961593"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:52:41.968729"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:52:44.429659"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 27.4398136138916,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T18:52:45.178148"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Cucumber",
+      "predicted_temp": 25.27946662902832,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:02:36.841054"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "predicted_temp": 25.43263053894043,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:09:31.057793"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "predicted_temp": 25.43263053894043,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:09:42.255273"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "predicted_temp": 25.43263053894043,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:09:51.942589"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.639564514160156,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:10:29.996432"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:10:46.617026"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:10:48.172106"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:10.098446"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:10.822135"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:15.406441"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:17.375532"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:20.028633"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:21.527864"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:22.219143"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:26.732883"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:27.407159"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:34.906931"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:34.913450"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:40.745039"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:41.504430"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:45.329977"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:47.029706"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:47.038780"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:48.366007"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:49.711335"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:51.131699"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:54.168011"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:56.360505"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "predicted_temp": 22.67682647705078,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:56.523100"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 24.6352596282959,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:11:59.470169"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "predicted_temp": 25.588823318481445,
+      "actual_temp": null,
+      "recorded_at": "2025-06-02T19:12:34.706351"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "predicted_temp": 25.460535049438477,
+      "actual_temp": 25.18,
+      "recorded_at": "2025-06-03T10:25:53.679097",
+      "updated_at": "2025-06-07T18:55:11.974241"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Tomato",
+      "predicted_temp": 26.157224655151367,
+      "actual_temp": null,
+      "recorded_at": "2025-06-06T09:42:46.518912",
+      "updated_at": "2025-06-06T10:22:10.021962"
+    }
+  ],
+  "recommendations": [
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:51:07.902126"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:51:08.733007"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:51:09.436180"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:51:11.123975"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:51:11.973851"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:51:11.978616"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:52:39.317374"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:52:41.085661"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:52:41.974506"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:52:41.978647"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:52:44.434983"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T18:52:45.182233"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Cucumber",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 1.59\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:02:36.846962"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.81\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:09:31.062723"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.81\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:09:42.259414"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.81\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:09:51.947056"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:10:30.001787"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:10:46.651690"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:10:48.177223"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:10.102890"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:10.828045"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:15.410430"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:17.382014"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:20.039994"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:21.533866"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:22.224305"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:26.740658"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:27.413788"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:34.914276"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:34.925241"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:40.752120"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:41.512639"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:45.362368"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:47.039308"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:47.055525"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:48.375467"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:49.727925"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:51.140345"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:54.196212"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:56.369589"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:56.532635"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 3.60\u00b0C"
+      },
+      "recorded_at": "2025-06-02T19:11:59.483347"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-02T19:12:34.716096"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:14.925977"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:15.547002"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:18.364687"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:20.131160"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:21.343113"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:21.886474"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:22.848203"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.39\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:24.423704"
+    },
+    {
+      "date": "2025-06-02",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.28\u00b0C"
+      },
+      "recorded_at": "2025-06-02T20:06:46.445339"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:25:53.693498"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:16.526369"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:17.473135"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:20.092511"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:21.459496"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:32.075760"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:33.493336"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:34.175109"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:38.942964"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:40.170240"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:51.275727"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:56.522002"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.90\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:26:57.291488"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:27:32.218110"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:28:51.614268"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:28:52.421870"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:28:53.013440"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:28:55.179621"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:28:58.989957"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:29:20.000086"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:29:20.645971"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:29:41.513213"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:29:58.162680"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:30:01.612473"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:30:36.895879"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:36:17.843028"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:36:18.828030"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:37:55.214590"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:37:56.035575"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:37:59.635937"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:38:01.285370"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:38:02.055859"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:38:03.619135"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:38:10.988825"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:43:50.294174"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:43:51.208774"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:47:12.781314"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:05.298379"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:05.998975"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:33.631671"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:34.431762"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:45.431604"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:46.198273"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:48.216651"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:50.281066"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:54.119941"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:51:57.283077"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:52:00.978000"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Cucumber",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:52:35.038961"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Cucumber",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:53:14.853993"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:53:54.739315"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:54:06.795092"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:54:07.428721"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:54:16.694774"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:54:20.149567"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-03T10:54:21.962163"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Spinach",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 5.05\u00b0C"
+      },
+      "recorded_at": "2025-06-03T10:54:58.309943"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "ON",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 7.04\u00b0C. Water pump ON because soil moisture (28.7%) is below threshold"
+      },
+      "recorded_at": "2025-06-03T15:21:47.821265"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "ON",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 7.04\u00b0C. Water pump ON because soil moisture (28.7%) is below threshold"
+      },
+      "recorded_at": "2025-06-03T15:22:05.599446"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "ON",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 7.04\u00b0C. Water pump ON because soil moisture (28.7%) is below threshold"
+      },
+      "recorded_at": "2025-06-03T15:22:11.830362"
+    },
+    {
+      "date": "2025-06-03",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "ON",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 7.04\u00b0C. Water pump ON because soil moisture (28.7%) is below threshold"
+      },
+      "recorded_at": "2025-06-03T15:22:22.306302"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Tomato",
+      "recommendations": {
+        "fan": "OFF",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "All conditions within optimal range"
+      },
+      "recorded_at": "2025-06-06T09:42:46.523066"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.28\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:17:55.273947"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.28\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:18:48.008984"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.28\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:19:12.046651"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.28\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:19:12.878158"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 4.28\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:19:16.693661"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:19:48.341731"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:20:33.691661"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:20:34.522640"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:20:35.023276"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:20:35.368336"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:20:36.260998"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:21:17.251132"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:21:19.530142"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:21:29.218358"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:21:29.745618"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:21:37.342042"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:21:37.971682"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "OFF",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 10.49\u00b0C"
+      },
+      "recorded_at": "2025-06-06T10:21:39.405705"
+    },
+    {
+      "date": "2025-06-06",
+      "crop": "Lettuce",
+      "recommendations": {
+        "fan": "ON",
+        "heater": "OFF",
+        "water_pump": "ON",
+        "reasoning": "Fan ON because temperature exceeds optimal range by 16.83\u00b0C. Water pump ON because soil moisture (9.0%) is below threshold"
+      },
+      "recorded_at": "2025-06-06T10:22:10.038730"
+    }
+  ],
+  "crop_history": {},
+  "metadata": {
+    "created_at": "2025-06-02T18:47:44.850690",
+    "last_updated": "2025-06-07T18:55:11.975570"
+  }
+}

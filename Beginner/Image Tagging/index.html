@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Tagging with TensorFlow.js</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- TensorFlow.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.11.0/dist/tf.min.js"></script>
+    <!-- Local MobileNet model -->
+    <script src="./models/mobilenet_tfjs/mobilenet.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Image Tagging</h1>
+        <p class="subtitle">Upload an image to classify it</p>
+        
+        <div class="model-status">
+            <span id="modelStatus">Loading model...</span>
+            <button id="downloadBtn" style="display: none;">Download Model for Offline Use</button>
+        </div>
+        
+        <div class="upload-container">
+            <label for="imageUpload" class="upload-btn">Choose Image</label>
+            <input type="file" id="imageUpload" accept="image/*" hidden>
+        </div>
+        
+        <div class="preview-container">
+            <img id="imagePreview" src="#" alt="Preview" style="display: none;">
+        </div>
+        
+        <button id="predictBtn" disabled>Classify Image</button>
+        
+        <div class="results-container">
+            <h2>Results</h2>
+            <div id="predictions"></div>
+            <div class="loader" id="loader" style="display: none;"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html> 
