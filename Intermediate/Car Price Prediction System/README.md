@@ -12,22 +12,6 @@ This project implements a complete end-to-end machine learning solution for pred
 4. **Web application with Flask backend** - Interactive user interface for making predictions
 5. **Responsive UI with dark mode** - Modern, user-friendly interface with intuitive design
 
-## System Workflow
-
-```mermaid
-flowchart TD
-    A[Load Dataset] --> B[Data Preprocessing]
-    B --> C[Feature Engineering]
-    C --> D[Train Models]
-    D --> E[Evaluate Models]
-    E --> F[Select Best Model]
-    F --> G[Save Model]
-    G --> H[Flask Web App]
-    H --> I[User Input Form]
-    I --> J[Process Prediction]
-    J --> K[Display Results]
-```
-
 ## Dataset
 
 The dataset (`data/car.csv`) contains detailed information about used cars, including:
