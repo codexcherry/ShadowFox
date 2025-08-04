@@ -2,7 +2,7 @@
 
 A smart greenhouse monitoring and recommendation system powered by NASA Earth data APIs and AI agents, featuring a premium dark-themed UI with interactive visualizations.
 
-![Greenhouse Intelligence System](data/assets/2.jpg)
+![Greenhouse Intelligence System](data/assets/2.png)
 *Main Dashboard Overview - Real-time monitoring of current conditions with temperature, soil moisture, and predictive analytics*
 
 ## Features
